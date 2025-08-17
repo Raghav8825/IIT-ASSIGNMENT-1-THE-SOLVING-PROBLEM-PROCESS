@@ -1,0 +1,5 @@
+Inputs/Outputs-
+Inputs: feeding time plan, sensors (to check bowl weight and food level).
+Outputs: motor drops the food, alert message is sent (buzzer/text/display)
+Sample values: The feeder is set to give food at set times, for example 8:00 AM, 12:30 PM, and 7:00 PM, with about 100 grams each time (can be between 60–110 g). The bowl can hold up to 450 g, while the main container can store up to 1.8 kg of food. A warning is sent if the food left in the container is below 20% or if the pet eats less than 25 g within 30 minutes after feeding. The motor runs for around 5 seconds to drop the food, and sensors check the bowl and container every 15 seconds once the food is dispensed. The buzzer rings for 4 seconds and a message is also sent right away if needed.
+
